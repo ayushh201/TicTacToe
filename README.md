@@ -11,7 +11,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple implementation of the classic 
 
 ## Demo
 
-You can play the game [here]([https://your-game-url.com](https://tic-tac-toe-liard-nu.vercel.app/]).
+You can play the game at https://tic-tac-toe-liard-nu.vercel.app/
 
 ## How to Play
 
